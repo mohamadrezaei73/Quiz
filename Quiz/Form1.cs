@@ -92,7 +92,7 @@ namespace Quiz
                 ans = "x : " + Root;
                 LB_RESULT.Text = ans.ToString();
             }
-
+            //quiz
         }
 
     }
